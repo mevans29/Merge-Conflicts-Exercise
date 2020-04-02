@@ -1,3 +1,3 @@
 # Merge-Conflicts-Exercise
 
-by Matthew Evans
+by Shmatthew Shmevans
